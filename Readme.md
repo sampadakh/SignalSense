@@ -150,7 +150,3 @@ Competitive intelligence
 
 Business presentations
 
-🧑‍💻 Author
-Chahat Jain
-GitHub: @chahxt
-
